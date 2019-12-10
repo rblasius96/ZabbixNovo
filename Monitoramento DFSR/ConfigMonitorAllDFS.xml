@@ -1,0 +1,6 @@
+<configuration>
+  <versao numero="1" release="0" />
+  <alerta data="" limiteTempo="60" />
+  <alertaErro data="" limiteTempo="60" />
+    <DFSR LimitError="1" LimitBacklog="5000" />
+</configuration>
